@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(to right, slategray, 50%, darkslategray, lightslategray);
+    background-size: 10px;
+    color: white;
+}
